@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\images\\404.png",
+      "PackagePath": "staticwebassets\\images\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\images\\default.svg",
+      "PackagePath": "staticwebassets\\images\\default.svg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\images\\goku.png",
+      "PackagePath": "staticwebassets\\images\\goku.png"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\images\\infinix.jpeg",
+      "PackagePath": "staticwebassets\\images\\infinix.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\images\\motorola.jpeg",
+      "PackagePath": "staticwebassets\\images\\motorola.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\images\\no-products.jpg",
+      "PackagePath": "staticwebassets\\images\\no-products.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\images\\oppo.jpeg",
+      "PackagePath": "staticwebassets\\images\\oppo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\images\\poco_c51.jpeg",
+      "PackagePath": "staticwebassets\\images\\poco_c51.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\images\\realme.jpeg",
+      "PackagePath": "staticwebassets\\images\\realme.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\images\\redmi.jpeg",
+      "PackagePath": "staticwebassets\\images\\redmi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\images\\vivo.jpeg",
+      "PackagePath": "staticwebassets\\images\\vivo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\items\\item1.jpg",
+      "PackagePath": "staticwebassets\\items\\item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\items\\item2.jpg",
+      "PackagePath": "staticwebassets\\items\\item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\items\\item3.jpg",
+      "PackagePath": "staticwebassets\\items\\item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sapna\\source\\repos\\ECommerce\\Ecommerce\\wwwroot\\items\\item4.jpg",
+      "PackagePath": "staticwebassets\\items\\item4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ecommerce.props",
+      "PackagePath": "build\\Ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ecommerce.props",
+      "PackagePath": "buildTransitive\\Ecommerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
