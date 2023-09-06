@@ -1,0 +1,47 @@
+.form{
+    width: 40%;
+  }
+  .btn{
+    background-color:#951ac9;
+    color: #fff;
+    border: none;
+  }
+  .btn:hover{
+    color: #fff;
+    background-color:#c11ac9;
+  }
+  .btn:focus{
+        box-shadow: none ; 
+    }
+    .a{  display: flex;
+        justify-content: left;
+        float: left;
+        font-weight: 500;
+        color:rgb(91, 194, 238);
+        float: right;
+    }
+    .a:hover{
+    color: rgb(8, 132, 185);
+    text-decoration: none;
+  }
+  .h1{
+        font-weight: 700;
+        background: linear-gradient(to right,#951ac9 ,#c11ac9 );
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+  }
+
+.inp{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 0;
+    
+  }
+.inp:focus{
+  box-shadow: none;
+  border-bottom:2px solid #951ac9;
+}
+.p{
+  color: rgb(234, 111, 4)
+}

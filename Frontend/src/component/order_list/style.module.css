@@ -1,0 +1,30 @@
+.footer {
+    overflow-x: hidden;
+  }
+  
+  .arrow {
+    color: #000;
+  }
+  
+  .btn {
+    background: #951ac9;
+    color: #fff;
+  }
+  
+  .btn:hover {
+    background-color: #c11ac9;
+    color: #fff;
+  }
+  
+  .btn:focus {
+    box-shadow: none !important;
+  }
+
+  .bill{
+    display: flex;
+    justify-content: end;
+  }
+
+.circle{
+  color:#951ac9;
+}

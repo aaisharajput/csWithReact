@@ -1,0 +1,21 @@
+.footer {
+    overflow-x: hidden;
+  }
+  
+  .arrow {
+    color: #000;
+  }
+  
+  .btn {
+    background: #951ac9;
+    color: #fff;
+  }
+  
+  .btn:hover {
+    background-color: #c11ac9;
+    color: #fff;
+  }
+  
+  .btn:focus {
+    box-shadow: none !important;
+  }

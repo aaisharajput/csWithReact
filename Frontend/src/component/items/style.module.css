@@ -1,0 +1,19 @@
+/* items */
+.card {
+	width: 90%;
+	border: none;
+}
+
+.img {
+	height: 380px;
+}
+
+.btnn {
+	border: 1px solid rgb(197, 197, 197);
+	padding: 5%;
+}
+
+.btn {
+	padding: 5px 20px;
+}
+

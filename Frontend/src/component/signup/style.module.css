@@ -1,0 +1,31 @@
+.section{
+  width: 95%;
+  }
+  
+  .h1{
+        font-weight: 700;
+        background: linear-gradient(to left,#951ac9 ,#c11ac9 );
+        -webkit-text-fill-color: transparent;
+              -webkit-background-clip: text;
+  }
+  .msg{
+    color:red;
+  }
+
+  .register{
+    background: #951ac9 ;
+    color: #fff;
+    border-color: #951ac9 ;
+  }
+
+  .register:hover{
+    background-color: #c11ac9;
+    color: #fff;
+  }
+  .register:focus{
+    box-shadow: none !important; 
+}
+
+.card{
+  border:none;
+}

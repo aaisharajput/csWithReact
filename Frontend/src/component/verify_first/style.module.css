@@ -1,0 +1,23 @@
+.h1{
+    font-weight: 900;
+    background: linear-gradient(to right,#951ac9 20%,#e040e9 80%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.container{
+position: absolute;
+top: 30%;
+left: 10%;
+}
+
+.inp{
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-radius: 0;
+    
+  }
+.inp:focus{
+  box-shadow: none;
+  border-bottom:2px solid #951ac9;
+}

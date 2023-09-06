@@ -1,0 +1,10 @@
+
+
+.actionButtons{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    border:none;
+}

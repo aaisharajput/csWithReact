@@ -1,0 +1,36 @@
+.footer{
+    background-color: #EFEFEF;
+    
+}
+ .apna{
+    padding-left: 20px;
+    font-family: "Changa";
+    font-weight: 500;
+    font-size: 27px;
+}
+
+ .bazaar{
+    font-family: 'Changa One',cursive;
+    font-size: 27px;
+    margin-left:-6px;
+}
+
+ .i{
+    cursor: pointer;
+    font-size: 25px;
+    padding-right: 10px;
+}
+
+ .a{
+    color: #727272;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+ .a:hover{
+    text-decoration: none;
+    color: #000;
+}
+
+.p{
+    color: #000;
+}

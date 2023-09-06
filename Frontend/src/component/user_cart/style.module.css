@@ -1,0 +1,54 @@
+*{
+    padding:0 0;
+    margin:0 0;
+}
+
+/* body {
+    font-family: 'Nunito', sans-serif;
+} */
+
+/* payment */
+.pay{
+    border:2px solid #c46cef;
+    color:#c46cef;
+    font-weight: bold;
+}
+.pay:hover{
+    background-color: #c46cef;
+    color: #fff;
+}
+
+
+/* items */
+.card{
+    border: none;
+ }
+.card-text{
+    border:1px solid rgb(197, 197, 197);
+}
+.card img{
+    width: 100%;
+    height: 400px;
+ }
+ .card .img{
+    width: 100%;
+ }
+ .btnn{
+    border:1px solid rgb(197, 197, 197);
+    padding: 5%;
+ }
+
+ .btn{
+    padding: 5px 6%;
+ }
+
+
+.i{
+    position: absolute;
+    left:0;
+    cursor: pointer;
+}
+
+.myCart{
+    padding-left: 15px;
+}

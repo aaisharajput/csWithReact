@@ -1,0 +1,50 @@
+.navbar{
+    background-color: #f3edf6;
+    color: #fff;
+}
+
+ .apna, .bazaar{
+    color: #951ac9;
+}
+
+ .apna{
+    padding-left: 20px;
+    font-family: "Changa";
+    font-weight: 500;
+    font-size: 27px;
+}
+
+ .bazaar{
+    font-family: 'Changa One',cursive;
+    font-size: 27px;
+    margin-left:-6px;
+}
+
+
+.link1,.link2{
+    color: #333333;
+    font-size: 16.5px;
+}
+
+.link3,.link4{
+    color: #707070;
+}
+
+.link3{
+    font-size:25px;
+    font-weight: lighter;
+    color:#dedbdb
+}
+
+.faUser,.dropdownToggle,.dropdownToggle:hover{
+    color: #951ac9;
+}
+
+.navbarToggler{
+    background-color:#fff;
+}
+.navbarTogglerIcon .faBars{
+    padding-top: 3px;
+    font-size:larger;
+    color: #951ac9;
+}
